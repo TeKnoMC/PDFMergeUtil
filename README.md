@@ -4,5 +4,4 @@ A python program designed to take a directory of PDFs and merge them into one ou
 ## Example usage
 `$ python pdfmerge.py -i /path/to/input/directory -o /path/to/output/file.pdf`
 
-Running it with no parameters (as follows) uses the current working directory, and outputs to `output.pdf`.
-`$ python pdfmerge.py`
+Running it with no parameters uses the current working directory and outputs to `output.pdf`.
